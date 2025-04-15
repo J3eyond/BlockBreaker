@@ -4,7 +4,7 @@
 
 ## Features
 
-- Reads a list of passwords from a file
+- Read a list of passwords from a file
 - Generates sequential login attempts with valid credentials after each attempt limit
 - Configurable number of attempts before lockout
 - Writes generated usernames and passwords to output files
